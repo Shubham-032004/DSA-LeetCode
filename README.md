@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## String
 |  |
 | ------- |
@@ -21,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1189-maximum-number-of-balloons](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0383-ransom-note) |
 | [1189-maximum-number-of-balloons](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Array
 |  |
 | ------- |
