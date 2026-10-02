@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0076-minimum-window-substring) |
 | [0383-ransom-note](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Stack
