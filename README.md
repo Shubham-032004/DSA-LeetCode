@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1480-running-sum-of-1d-array](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1920-build-array-from-permutation](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/1920-build-array-from-permutation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -157,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0142-linked-list-cycle-ii) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
