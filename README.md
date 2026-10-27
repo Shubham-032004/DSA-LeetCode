@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0383-ransom-note) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0202-happy-number) |
 ## Simulation
 |  |
 | ------- |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
