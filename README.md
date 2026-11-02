@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0066-plus-one) |
 | [0168-excel-sheet-column-title](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Shubham-032004/DSA-LeetCode/tree/master/0202-happy-number) |
